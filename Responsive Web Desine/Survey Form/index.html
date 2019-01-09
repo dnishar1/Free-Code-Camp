@@ -3,7 +3,6 @@
 <html>
   <h1 id="title">Survey Form</h1>
   <p id="description"> This is a survey form for us to get a better understanding of your preferences</p>
-  
   <form id="survey-form">Personal information<br>
     <label id="name-label" for="name">* Name: </label>
     <input name="name" type="text" id="name" required><br>
@@ -11,6 +10,9 @@
     <label id="email-label" for="email"> * Email: </label> 
     <input email="email" type="text" id="email" required>
     
+    <div class="labels">
+        <label id="number-label" for="age">* Age: </label>
+        </div><input type="number" name="age" id="number" min="1" max="100" class="input-field" placeholder="Age">
+    
   </form>
 </html>
-
