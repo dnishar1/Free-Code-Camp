@@ -1,3 +1,3 @@
 # Free-Code-Camp
 
-projects from Free Code Camp
+Projects from Free Code Camp
