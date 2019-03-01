@@ -135,9 +135,6 @@ footer a {
 }
 
 @media only screen and (max-width: 367px) {
-  /*    #contact{
-    min-height:1100px;
-  } */
   .contact-details {
     border: 2px solid #90C695;
     border-radius: 0;
