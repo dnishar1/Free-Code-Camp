@@ -4,6 +4,7 @@ html{
   min-width:260px;
   color:#333;
 }
+
 #main{
   margin:30px auto;
   padding:15px;
@@ -11,12 +12,14 @@ html{
   border-radius:5px;
   background:#eee;
 }
+
 img{
   max-width: 100%; 
   display: block; 
   height: auto;
   margin: auto;
 }
+
 #img-div{
   margin:-5px;
   margin-top:20px;
@@ -24,14 +27,17 @@ img{
   border:5px solid white;
   background:white;
 }
+
 #img-caption{
   margin:15px;
   font-size: 13px;
 }
+
 #headline{
   margin-top:50px;
   text-align:left;
 }
+
 ul{
   max-width:600px;
   margin:0 auto;
@@ -41,6 +47,7 @@ li{
   margin: 10px;
   font-size: 15px;
 }
+
 blockquote{
   font-style: italic;
   font-size: 12px;
